@@ -15,7 +15,7 @@ Each rss item is structured as follows:
 ```
 <item>
   <title> b MP Fiona Onasanya to face retrial in speed ticket case   </title>
-  <description> b Peterborough MP Fiona Onasanya denies a charge of perverting the course of justice  </description>
+  <description> b Peterborough MP XXX denies a charge of perverting the course of justice  </description>
   <text> A Labour MP accused of lying about who was driving her speeding car will face a retrial after a jury failed to 
          reach a verdict ...  </text>
   <tag> POLITIQUE</tag>
