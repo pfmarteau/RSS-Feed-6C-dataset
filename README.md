@@ -23,4 +23,5 @@ Each rss item is structured as follows:
 ```
 
 Hence, the classification can be performed using the concatenation of all textual fields, namely <title> + <description> + <text>.
-The <tag> field gives the category which belongs to ['ART_CULTURE', 'ECONOMIE', 'POLITIQUE', 'SANTE_MEDECINE', 'SCIENCE', 'SPORT'].
+  
+The <tag> field gives the category that belongs to one of the six ['ART_CULTURE', 'ECONOMIE', 'POLITIQUE', 'SANTE_MEDECINE', 'SCIENCE', 'SPORT'].
