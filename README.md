@@ -58,3 +58,6 @@ The <tag> field gives the category that belongs to one of the six categories
 4. 'SANTE_MEDECINE/HEALTH_MEDICINE', 
 5. 'SCIENCE', 
 6. 'SPORT'.
+
+If you use this dataset, please cite:
+P-F.Marteau, N. Béchet and O. Ahmia, Similarité par recouvrement de séquence pour la fouille de données séquentielles et textuelles, 19ème édition de la conférence Extraction et Gestion des Connaissances, EGC 2019, Metz, France.
