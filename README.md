@@ -1,7 +1,7 @@
 # RSS-Feed-6C-dataset
 Dataset for text classification: items belong to 6 categories
 
-This dataset contains french and english textual documents collected on the following rss sources during November 2018 :
+This dataset contains french and english textual documents collected on the following rss sources during November 2018. Please note that each of these source holds a coyright on these collected items.
 
 ## English sources
 1. http://feeds.bbci.co.uk/sport/rss.xml?edition=uk SPORT
