@@ -51,4 +51,10 @@ Hence, the classification can be performed using the concatenation of all textua
 ```
 Some of these fields may be missing, in this case they will have a '' value.
   
-The <tag> field gives the category that belongs to one of the six categories ['ART_CULTURE', 'ECONOMIE/ECONOMY', 'POLITIQUE/POLITICS', 'SANTE_MEDECINE/HEALTH_MEDICINE', 'SCIENCE', 'SPORT'].
+The <tag> field gives the category that belongs to one of the six categories 
+1. 'ART_CULTURE', 
+2. 'ECONOMIE/ECONOMY', 
+3. 'POLITIQUE/POLITICS', 
+4. 'SANTE_MEDECINE/HEALTH_MEDICINE', 
+5. 'SCIENCE', 
+6. 'SPORT'.
