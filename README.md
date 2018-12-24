@@ -4,7 +4,18 @@ Dataset for text classification: items belong to 6 categories
 This dataset contains french and english textual documents collected on the following rss sources during November 2018 :
 
 ## English sources
-
+1. http://feeds.bbci.co.uk/sport/rss.xml?edition=uk SPORT
+2. http://rss.cnn.com/rss/edition_sport.rss SPORT
+3. https://rss.medicalnewstoday.com/featurednews.xml SANTE_MEDECINE
+4. https://medlineplus.gov/groupfeeds/new.xml SANTE_MEDECINE
+5. http://feeds.bbci.co.uk/news/science_and_environment/rss.xml?edition=uk SCIENCE
+6. http://feeds.reuters.com/reuters/scienceNews SCIENCE
+7. http://feeds.reuters.com/Reuters/PoliticsNews POLITIQUE
+8. http://feeds.bbci.co.uk/news/politics/rss.xml POLITIQUE
+9. http://feeds.reuters.com/reuters/businessNews ECONOMIE
+10. http://feeds.bbci.co.uk/news/business/rss.xml ECONOMIE
+11. http://feeds.reuters.com/reuters/entertainment ART_CULTURE
+12. http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml ART_CULTURE
 
 ## French sources
 1. http://www.sports.fr/fr/cmc/rss.xml SPORT
